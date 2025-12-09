@@ -1,5 +1,7 @@
 Media Bias & AI
 
+Tableau link: https://public.tableau.com/app/profile/adam.khan3724/viz/FinalProjectAI_17652352940970/Dashboard5?publish=yes
+
 Research Question
 
 How does media bias toward AI differ across business, political, and general interest news outlets in the United States?
