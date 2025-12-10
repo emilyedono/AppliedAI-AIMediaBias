@@ -1,6 +1,10 @@
 Media Bias & AI
 
-Tableau link: https://public.tableau.com/app/profile/adam.khan3724/viz/FinalProjectAI_17652352940970/Dashboard5?publish=yes
+Tableau links: 
+
+https://public.tableau.com/app/profile/adam.khan3724/viz/FinalProjectAI_17652352940970/Dashboard5?publish=yes
+
+https://public.tableau.com/app/profile/adam.khan3724/viz/FinalProjectAI_17652352940970/Dashboard4
 
 Research Question
 
